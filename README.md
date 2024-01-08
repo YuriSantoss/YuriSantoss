@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33ff00&height=120&section=header"/>
+
 
 <p align="center">Hi, my name is Yuri. <br><br> I am looking for my first job opportunity</p>&nbsp;
  
@@ -49,5 +49,3 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{YuriSantoss}/count.svg" /></p> 
 <br>
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33ff00&height=120&section=footer"/>
