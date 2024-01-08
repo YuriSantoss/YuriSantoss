@@ -1,4 +1,4 @@
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33ff00&height=120&section=header"/>
 
 <p align="center">Hi, my name is Yuri. <br><br> I am looking for my first job opportunity</p>&nbsp;
  
@@ -43,3 +43,11 @@
  
 
 <img align="center" style="margin-bottom:100px" width=80% src="https://64.media.tumblr.com/09c6d90170076846bdb19de05e08a8ca/tumblr_ol3lldvM801qze3hdo1_r1_500.gifv" />
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{YuriSantoss}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33ff00&height=120&section=footer"/>
