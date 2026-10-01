@@ -43,9 +43,3 @@
  
 
 <img align="center" style="margin-bottom:100px" width=80% src="https://64.media.tumblr.com/09c6d90170076846bdb19de05e08a8ca/tumblr_ol3lldvM801qze3hdo1_r1_500.gifv" />
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/YuriSantoss/count.svg" /></p>
-<br>
-</div>
